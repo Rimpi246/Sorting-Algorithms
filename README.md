@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-## Repository containing all the sorting algorithms.
+#### Repository containing all the sorting algorithms.
