@@ -6,4 +6,8 @@
 <br>
 <h3>Insertion Sort</h3>
 <img align="center" height="200px" width="350px" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif" />
+<br>
+<h3>Selection Sort</h3>
+<img align="center" height="200px" width="350px" alt="GIF" src="https://elgorithmi.com/wp-content/uploads/2020/11/selection-sort-animation.gif" />
+
 
