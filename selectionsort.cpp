@@ -1,5 +1,6 @@
 // time complexity- O(n^2)
 // space complexity- O(1)
+// It is neither adaptive nor stable
 #include <bits/stdc++.h>
 using namespace std;
 void selectionSort(int arr[], int n){
