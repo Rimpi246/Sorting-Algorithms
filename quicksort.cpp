@@ -1,5 +1,6 @@
-
-
+// Best Case- when partitioning is always done in the middle. O(n log n)
+// Worst Case- when partitioning is done at any end. O(n^2)
+// Average Case- O(n log n)
 #include <bits/stdc++.h>
 using namespace std;
 
