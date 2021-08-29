@@ -40,4 +40,8 @@ Space Complexity: O(1)</h4>
 <br>
 <h3>Quick Sort</h3>
 <img align="center" height="200px" width="350px" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif" />
+<br>
+<h3>Merge Sort</h3>
+<img align="center" height="200px" width="350px" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif" />
+<br>
 
